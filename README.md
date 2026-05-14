@@ -1,7 +1,7 @@
 # Stop Wrestling with Excel Use Python to Automate It
 
-**Published:** 2025-08-23
-**Medium:** [https://medium.com/@kyle-t-jones/stop-wrestling-with-excel-use-python-to-automate-it-6d169e5346d6](https://medium.com/@kyle-t-jones/stop-wrestling-with-excel-use-python-to-automate-it-6d169e5346d6)
+Published: 2025-08-23
+Medium: [https://medium.com/@kyle-t-jones/stop-wrestling-with-excel-use-python-to-automate-it-6d169e5346d6](https://medium.com/@kyle-t-jones/stop-wrestling-with-excel-use-python-to-automate-it-6d169e5346d6)
 
 ## About
 
