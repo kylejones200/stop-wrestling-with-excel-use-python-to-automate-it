@@ -11,14 +11,7 @@ This is where Python shines. With libraries like Pandas and Openpyxl, you can tr
 
 In this article, we'll walk through how Python can read, transform, and write Excel files. You'll see why many workflows are faster, more reliable, and more transparent when moved from Excel to Python.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
